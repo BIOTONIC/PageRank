@@ -1,5 +1,6 @@
 # DataMining PageRank Howework
 - 这次的作业我用Python完成的，主要参考了这篇文章[PageRank算法简介及Map-Reduce实现](http://www.cnblogs.com/fengfenggirl/p/pagerank-introduction.html)
+- 文件超过25M就上传不了了 所以没办法上传relation.txt relation.json和result.txt啦
 - 我就结合代码说一下具体实现吧
 
 ``` python
